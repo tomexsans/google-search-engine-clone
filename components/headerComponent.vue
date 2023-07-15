@@ -12,7 +12,11 @@
                     <navigation-nav-link>Images</navigation-nav-link>
                 </li>
                 <li>
-                    <navigation-nav-link rounded-link>Gmail</navigation-nav-link>
+                    <navigation-nav-link rounded-link>
+                        <Icon name="ic:outline-apps"
+                            color="gray"
+                            class="text-2xl"/>
+                    </navigation-nav-link>
                 </li>
                 <li>
                     <navigation-nav-link rounded-link>
