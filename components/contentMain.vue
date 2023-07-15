@@ -1,5 +1,5 @@
 <template>
-    <div class="h-[82vh] flex flex-col">
+    <div class="h-[79vh] flex flex-col">
         <section id="content-logo" class="mt-3 ">
             <div>
                 <img src="~/assets/img/googlelogo.png" alt="">
